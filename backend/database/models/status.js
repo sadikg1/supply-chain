@@ -1,4 +1,4 @@
-// models/status.js
+
 const { DataTypes } = require('sequelize');
 const sequelize = require('../db.js');
 
